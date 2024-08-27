@@ -30,11 +30,6 @@ To run this application locally, you will need:
 
 1. Clone the repository:
 
-git clone https://github.com/wang-arshton256/vexa_streams.git
-
-text
-
-
 2. Create a MySQL database and import the provided schema file.
 
 3. Update the database configuration in `config.php` with your database credentials.
