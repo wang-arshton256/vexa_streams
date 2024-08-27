@@ -29,25 +29,20 @@ To run this application locally, you will need:
 ## Installation
 
 1. Clone the repository:
-
 2. Create a MySQL database and import the provided schema file.
-
-3. Update the database configuration in `config.php` with your database credentials.
-
+3. Update the database configuration
 4. Run a local web server and navigate to the app.
 
 ## Usage
 
 1. Sign up for an account if you are a new user, or log in if you already have an account.
-
 2. Start chatting with other users in real-time.
 
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for any improvements or features.
 
-##Contact
 
-For any inquiries or support, please contact the development team at wangarshton@gmail.com.com.
+For any inquiries or support, please contact the development team at wangarshton@gmail.com
 
 This README file provides an overview of the Vexa Chat app, its features, technologies used, installation guide, usage instructions and a note about contributing and contacting the development team.
