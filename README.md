@@ -30,7 +30,7 @@ To run this application locally, you will need:
 
 1. Clone the repository:
 
-git clone https://wang-arshton256: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@github.com/wang-arshton256/vexa_streams.git
+git clone https://github.com/wang-arshton256/vexa_streams.git
 
 text
 
