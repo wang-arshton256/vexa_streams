@@ -1,7 +1,7 @@
 <?php
 $hostname = "localhost";
 $username = "wang";
-$password = "RRoadblock@2566";
+$password = "Roadblock@2566";
 $dbname   = "Vexa_chatapp";
 
 $conn = mysqli_connect($hostname, $username, $password, $dbname);
