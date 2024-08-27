@@ -42,20 +42,12 @@ To run this application locally, you will need:
 
 2. Start chatting with other users in real-time.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- This application uses the [WebSocket PHP library](https://github.com/Textalk/websocket-php) for real-time messaging.
-
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for any improvements or features.
 
 ##Contact
 
-For any inquiries or support, please contact the development team at wangasrhton@gmail.com.com.
+For any inquiries or support, please contact the development team at wangarshton@gmail.com.com.
 
 This README file provides an overview of the Vexa Chat app, its features, technologies used, installation guide, usage instructions and a note about contributing and contacting the development team.
